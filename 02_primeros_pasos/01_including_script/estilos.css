@@ -4,7 +4,6 @@
 }
 
 body{
-<<<<<<< HEAD
     background-color: moccasin;
 }
 
@@ -29,7 +28,4 @@ ul{
 #menu>li{
     float: left;
     text-align:center
-=======
-    background-color: navajowhite;
->>>>>>> feature/num2
 }
